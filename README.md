@@ -63,6 +63,7 @@ The dataset contains customer demographics, transaction details, and behavioral 
 * Shift strategy toward **customer experience and product value**, not price competition.
 
 ---
+Click here to view the interactive Dashboard : https://public.tableau.com/authoring/customerShoppingBehavior/Dashboard1/Dashboard%20CustomerShoppingBehavior#1
 
 ## 🛠 Tools & Technologies
 
